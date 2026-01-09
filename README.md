@@ -135,5 +135,5 @@ DermalScan/
 └── requirements.txt
 
 👤 Author
-||Sk Abdus Samad
+|| Sk Abdus Samad
 Engineering Undergraduate | AI & Deep Learning Enthusiast
