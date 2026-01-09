@@ -117,13 +117,21 @@ Clear result visualisation with highlighted aging areas
 
 📁 Repository Structure (Suggested)
 DermalScan/
+
 │
+
 ├── DermalScan-AI-Facial-Skin-Aging-Detection.pptx
+
 ├── README.md
+
 ├── dataset/
+
 ├── models/
+
 ├── notebooks/
+
 ├── app/
+
 └── requirements.txt
 
 👤 Author
