@@ -2,9 +2,13 @@
 DermalScan leverages state-of-the-art convolutional neural networks to automatically assess facial skin aging. The project focuses on early detection and classification of aging indicators to support better skincare decisions and interventions.
 
 Key Objectives:
+
 Automated detection of facial skin aging signs
+
 Classification into multiple aging categories
+
 High accuracy with visual and interpretable results
+
 Web-based accessibility for easy user interaction
 
 🧠 Aging Signs Detected
